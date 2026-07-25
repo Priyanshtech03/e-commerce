@@ -10,11 +10,11 @@
 
     /* Premium Dark Luxury Palette */
 
-    --primary:hsl(46, 65%, 52%);          /* Luxury Gold */
-    --primary-light:#F1D77A;    /* Soft Gold Highlight */
+    --primary:hsl(0, 60%, 18%);          /* Luxury Gold */
+    --primary-light:#5c0e12;    /* Soft Gold Highlight */
 
-    --secondary:#8B6B3F;        /* Antique Bronze */
-    --secondary-light:#C9A86A;  /* Champagne Gold */
+    --secondary:#cec8bf;        /* Antique Bronze */
+    --secondary-light:#dad4c9;  /* Champagne Gold */
 
     --bg:#0B0B0D;               /* Deep Black Background */
     --surface:#141416;          /* Card Surface */
@@ -117,7 +117,7 @@ header{
     width:100%;
     z-index:1000;
 
-    background:hsl(46, 65%, 52%);
+    background:hsl(0, 0%, 0%);
 
     backdrop-filter:blur(12px);
 
